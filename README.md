@@ -1,7 +1,10 @@
 # bangkit_ilt02
-#Simple RESTFul API
+
+# Simple RESTFul API
+
 ---
-##Create the simple RESTFul API using Node.js Natively and Express Framework with the specification:
+
+## Create the simple RESTFul API using Node.js Natively and Express Framework with the specification:
 
 |Method |	Path |	Response Code |	Body | Description |
 | ---      | ---       | --- | ---| --- |
@@ -22,4 +25,5 @@ User data structure:
 Server options:
 
 port: `3000`
+
 host: `localhost`
