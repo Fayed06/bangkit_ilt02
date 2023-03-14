@@ -5,8 +5,8 @@
 
 |Method |	Path |	Response Code |	Body | Description |
 | ---      | ---       | --- | ---| --- |
-|POST	| /contacts	201	| JSON	| Create new contacts|
-|GET	| /contacts	200	| JSON	| List of contacts|
+|POST	| /contacts	| 201	| JSON	| Create new contacts|
+|GET	| /contacts	| 200	| JSON	| List of contacts|
 |DELETE |	/contacts/:id	|200	|JSON	|Delete contacts|
 
 User data structure:
